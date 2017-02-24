@@ -1,0 +1,6 @@
+{
+  "name": "awesome-package",
+  "xo": {
+    "space": true
+  }
+}
